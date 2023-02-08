@@ -24,6 +24,12 @@ body {
     color: lightgray;
 }
 
+.copyright {
+    font-size: 16px;
+    color: gray;
+    text-align: right;
+}
+
 /* LINKS */
 
 .link--cta {
